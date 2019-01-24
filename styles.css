@@ -13,11 +13,18 @@
 }
 
 .skills {
-  background-color: #e9ebee;
+  /*background-color: #e9ebee;*/
 
 }
 
 .skill-list li{
   display: inline-block;
   padding: 10px;
+}
+
+.skills, .hobbies {
+  padding: 25px;
+}
+#spring {
+  font-size: 3em;
 }
